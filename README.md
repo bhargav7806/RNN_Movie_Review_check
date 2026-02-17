@@ -39,3 +39,5 @@ Dense Output Layer (Sigmoid activation)
 
 Loss Function: Binary Crossentropy
 Optimizer: Adam
+
+https://rnnmoviereviewcheck-jkiauch6osbzjgigp8vkjo.streamlit.app/
