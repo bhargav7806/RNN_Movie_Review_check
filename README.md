@@ -41,3 +41,7 @@ Loss Function: Binary Crossentropy
 Optimizer: Adam
 
 https://rnnmoviereviewcheck-jkiauch6osbzjgigp8vkjo.streamlit.app/
+
+<img width="616" height="280" alt="Screenshot 2026-04-12 181632" src="https://github.com/user-attachments/assets/3e33708e-159d-4b5c-9e95-fefcbf1448e8" />
+<img width="597" height="271" alt="Screenshot 2026-04-12 181758" src="https://github.com/user-attachments/assets/6d190f8e-9fb0-4953-85af-1b370387bc45" />
+
